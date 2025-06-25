@@ -1,0 +1,8 @@
+opencv-python
+deepface
+dlib
+numpy
+scipy
+pandas
+pymongo
+tensorflow
